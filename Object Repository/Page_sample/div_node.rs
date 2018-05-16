@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Text 1Text 2</name>
+   <name>div_node</name>
    <tag></tag>
    <elementGuidId>9b888ae8-0bd7-429f-bfce-0c9363504748</elementGuidId>
    <selectorCollection>
